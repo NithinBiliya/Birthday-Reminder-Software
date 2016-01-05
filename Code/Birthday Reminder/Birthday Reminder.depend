@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1287502413 source:e:\college\birthday reminder\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<fstream>
+

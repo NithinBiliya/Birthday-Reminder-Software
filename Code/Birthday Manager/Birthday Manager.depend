@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1287502092 source:e:\college\birthday manager\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
